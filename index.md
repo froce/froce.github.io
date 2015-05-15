@@ -10,62 +10,45 @@ header:
    image_fullwidth: "rings3.png"
    title: "Portfoliothings"
 ---
-<div class="row t60">
-    <div class="medium-6 columns b30">
-        <img src="{{ site.url }}/images/density00.JPG" alt="">
+<ul class="medium-block-grid-3 large-block-grid-3">
+    <li>
+        <img src="{{ site.url }}/images/density00.JPG" alt="" style="width: 100%">
         <p> Interactive Smoke Rendering in Maya's Viewport 2.0</p>
-    </div><!-- /.medium-6.columns -->
-
-    <div class="medium-6 columns b30">
+    </li>
+    <li>
         <img src="{{ site.url }}/images/pt.png" alt="">
         <p>Monte Carlo Pathtracer</p>
-    </div><!-- /.medium-6.columns -->
-</div><!-- /.row -->
-
-
-<div class="row t30">
-    <div class="medium-4 columns">
-        <img src="{{ site.url }}/images/AsteroidsDebug1.png" alt="">
-        <p>Warped Shadow Maps</p>
-    </div><!-- /.medium-4.columns -->
-
-    <div class="medium-4 columns">
-        <img src="{{ site.url }}/images/AsteroidsDebug2.jpg" alt="">
-        <p>GPU Particles</p>
-    </div><!-- /.medium-4.columns -->
-
-    <div class="medium-4 columns">
-        <img src="{{ site.url }}/images/65.JPG" alt="">
-        <p>Mesh to Signed Distance Field Conversion and Raymarching</p>
-    </div><!-- /.medium-4.columns -->
-</div><!-- /.row -->
-
-<div class="row t30">
-    <div class="medium-4 columns">
-        <img src="{{ site.url }}/images/Modellvergleiche3.png" alt="">
-        <p>Bachelor Thesis</p>
-    </div><!-- /.medium-4.columns -->
-
-    <div class="medium-4 columns">
-        <img src="{{ site.url }}/images/TD2.png" alt="">
-        <p>Tower Defense</p>
-    </div><!-- /.medium-4.columns -->
-</div><!-- /.row -->
-
-<p> Work in Progress</p>
-<div class="row t30">
-    <div class="medium-4 columns">
-        <img src="{{ site.url }}/images/rings1.png" alt="">
-        <p>Planetary Ring System Simulation for Fulldome Rendering</p>
-    </div><!-- /.medium-4.columns -->
-
-    <div class="medium-4 columns">
+    </li>
+	<li>
         <img src="{{ site.url }}/images/balls.png" alt="">
         <p>GPU Pathtracing</p>
-    </div><!-- /.medium-4.columns -->
-
-    <div class="medium-4 columns">
+    </li>
+	<li>
+        <img src="{{ site.url }}/images/Modellvergleiche3.png" alt="">
+        <p>Bachelor Thesis</p>
+    </li>
+    <li>
+        <img src="{{ site.url }}/images/AsteroidDebug2.png" alt="">
+        <p>GPU Particles</p>
+    </li>
+    <li>
+        <img src="{{ site.url }}/images/65.JPG" alt="">
+        <p>Mesh to Signed Distance Field Conversion and Raymarching</p>
+    </li>
+    <li>
+        <img src="{{ site.url }}/images/TD2.png" alt="">
+        <p>Tower Defense</p>
+    </li>
+    <li>
+        <img src="{{ site.url }}/images/rings1.png" alt="">
+        <p>Planetary Ring System Simulation for Fulldome Rendering</p>
+    </li>
+	<li>
+        [<img src="{{ site.url }}/images/RectilinearShadowWarping.png" alt="">]({% post_url projects/2015-05-15-shadow-mapping-using-rectilinear-warping %})
+        <p>Shadow Mapping using Rectilinear Shadow Warping</p>
+    </li>    
+    <li>
         <img src="{{ site.url }}/images/area_light_bunny.PNG" alt="">
         <p>Cone Traced Soft-Shadows and Ambient Occlusion from Distance Fields</p>
-    </div><!-- /.medium-4.columns -->
-</div><!-- /.row -->
+    </li>
+</ul>
