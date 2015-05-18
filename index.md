@@ -23,10 +23,6 @@ header:
         <img src="{{ site.url }}/images/balls.png" alt="">
         <p>GPU Pathtracing</p>
     </li>
-	<li>
-        <img src="{{ site.url }}/images/TD2.png" alt="">
-        <p>Tower Defense</p>
-    </li>
     <li>
         <img src="{{ site.url }}/images/rings1.png" alt="">
         <p>Planetary Ring System Simulation for Fulldome Rendering</p>
@@ -36,11 +32,15 @@ header:
         <p>Cone Traced Soft-Shadows and Ambient Occlusion from Distance Fields</p>
     </li>
 	<li>
+        <img src="{{ site.url }}/images/TD2.png" alt="">
+        <p>Tower Defense</p>
+    </li>
+	<li>
         <img src="{{ site.url }}/images/Modellvergleiche3.png" alt="">
         <p>Bachelor Thesis</p>
     </li>
 		    <li>
-        <img src="{{ site.url }}/images/density00.JPG" alt="" style="width: 100%">
+        <img src="{{ site.url }}/images/smoke.png" alt="" style="width: 100%">
         <p> Interactive Smoke Rendering in Maya's Viewport 2.0</p>
     </li>
     <li>
