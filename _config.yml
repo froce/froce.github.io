@@ -53,7 +53,7 @@ paginate_path: "blog/page:num"
 markdown: kramdown
 permalink: /:categories/:title/
 highlight: pygments
-excerpt_separator: "\n\n"
+excerpt_separator: ""
 exclude: []
 include: ['.htaccess']
 

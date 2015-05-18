@@ -28,7 +28,7 @@ header:
         <p>Bachelor Thesis</p>
     </li>
     <li>
-        <img src="{{ site.url }}/images/AsteroidDebug2.png" alt="">
+        <img src="{{ site.url }}/images/GPUParticles.png" alt="">
         <p>GPU Particles</p>
     </li>
     <li>
@@ -44,8 +44,8 @@ header:
         <p>Planetary Ring System Simulation for Fulldome Rendering</p>
     </li>
 	<li>
-        [<img src="{{ site.url }}/images/RectilinearShadowWarping.png" alt="">]({% post_url projects/2015-05-15-shadow-mapping-using-rectilinear-warping %})
-        <p>Shadow Mapping using Rectilinear Shadow Warping</p>
+        <a href="{% post_url projects/2015-05-15-shadow-mapping-using-rectilinear-warping %}"><img src="{{ site.url }}/images/RectilinearShadowWarping.png" alt="">
+        <p>Shadow Mapping using Rectilinear Shadow Warping</p></a>
     </li>    
     <li>
         <img src="{{ site.url }}/images/area_light_bunny.PNG" alt="">
