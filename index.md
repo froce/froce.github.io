@@ -32,7 +32,7 @@ header:
         <p>GPU Particles</p>
     </li>
     <li>
-        <img src="{{ site.url }}/images/65.JPG" alt="">
+        <img src="{{ site.url }}/images/MeshToSDF1.png" alt="">
         <p>Mesh to Signed Distance Field Conversion and Raymarching</p>
     </li>
     <li>
