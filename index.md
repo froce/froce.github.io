@@ -16,12 +16,12 @@ header:
         <p>Shadow Mapping using Rectilinear Shadow Warping</p></a>
     </li>
     <li>
-        <img src="{{ site.url }}/images/pt.png" alt="">
-        <p>Monte Carlo Pathtracer</p>
+        <a href="{% post_url projects/2015-05-19-path-tracing %}"><img src="{{ site.url }}/images/pt.png" alt="">
+        <p>Monte Carlo Pathtracer</p></a>
     </li>
 	<li>
-        <img src="{{ site.url }}/images/balls.png" alt="">
-        <p>GPU Pathtracing</p>
+        <img src="{{ site.url }}/images/smoke.png" alt="" style="width: 100%">
+        <p> Interactive Smoke Rendering in Maya's Viewport 2.0</p>
     </li>
     <li>
         <img src="{{ site.url }}/images/rings1.png" alt="">
@@ -39,10 +39,10 @@ header:
         <img src="{{ site.url }}/images/Modellvergleiche3.png" alt="">
         <p>Bachelor Thesis</p>
     </li>
-		    <li>
-        <img src="{{ site.url }}/images/smoke.png" alt="" style="width: 100%">
-        <p> Interactive Smoke Rendering in Maya's Viewport 2.0</p>
-    </li>
+	<li>
+        <img src="{{ site.url }}/images/balls.png" alt="">
+        <p>GPU Pathtracing</p>
+    </li>	
     <li>
         <img src="{{ site.url }}/images/MeshToSDF1.png" alt="">
         <p>Mesh to Signed Distance Field Conversion and Raymarching</p>
