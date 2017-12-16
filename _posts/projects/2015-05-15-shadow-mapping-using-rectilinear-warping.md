@@ -1,7 +1,7 @@
 ---
 layout: page
-subheadline:  "Shadow Mapping"
-title:  "Shadow Mapping"
+#subheadline:  "Shadow Mapping"
+#title:  "Shadow Mapping using Rectilinear Shadow Warping"
 teaser: "???"
 categories:
     - projects

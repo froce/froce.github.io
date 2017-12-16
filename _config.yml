@@ -21,12 +21,13 @@ description: "»Feeling Responsive« is a responsive theme for Jekyll based on t
 
 # This URL is the main adresse. Don't include a slash at the end.
 #
-url: "https://froce.github.io"
+url: "http://localhost:8888"
+#url: "https://froce.github.io"
 baseurl: ""
 
 # This is for the editing function in _/includes/improve_content.html
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/froce/froce.github.io/
+#improve_content: https://github.com/froce/froce.github.io/
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash.
@@ -34,7 +35,7 @@ improve_content: https://github.com/froce/froce.github.io/
 # Example: <img src="{{ site.urlimg }}/{{ post.image.title }}">
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}/image.jpg)
 #
-urlimg: "http://phlow.github.io/feeling-responsive/images/"
+urlimg: "http://froce.github.io/images/"
 
 
 # Logo size is 600x80 pixels
@@ -67,8 +68,6 @@ exclude:
     - Gemfile.lock
     - LICENSE
     - README.md
-
-
 #
 #       ____       ____            ____ 
 #      / __ \___  / __/___ ___  __/ / /_
